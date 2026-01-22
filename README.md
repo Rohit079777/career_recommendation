@@ -2,6 +2,9 @@
 
 AI-powered career recommendation system that analyzes your skills and matches them with suitable career paths, highlighting **skill gaps**, **salary insights**, and **visual analytics** — all in a modern, interactive UI built using **Streamlit**.
 
+🚀 **Live Demo:**  
+👉 https://careerrecommendation-njzj4nktes5krsobx2dbzq.streamlit.app/
+
 ---
 
 ## 🚀 Features
@@ -28,6 +31,10 @@ AI-powered career recommendation system that analyzes your skills and matches th
 ## 🧠 How Matching Works
 
 Career matching is calculated using **set-based skill overlap logic**:
+
+```text
+Match Score = (Matched Skills / Required Skills) × 100
+
 
 ```text
 Match Score = (Matched Skills / Required Skills) × 100
